@@ -1,0 +1,7 @@
+<div id="Change">
+        <form action="newUsername.php" method="post">
+            Current Username: <input type="text" name="Old">
+            New Username: <input type="text" name="New"><br>
+        <input type="submit" name="submit" value="submit">
+        </form>
+</div>

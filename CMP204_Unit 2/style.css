@@ -1,0 +1,99 @@
+/*
+Author: Patrick Collins
+©️license MIT
+https://github.com/Paddylonglegs/
+*/
+
+body {
+    background-color: lightskyblue;
+}
+
+#navbarToggler a:hover
+{
+    color: lightskyblue;
+}
+
+iframe
+{ 
+    min-width: 100%; 
+    min-height: 100%;
+    right: 0; 
+    bottom: 0;
+    width: auto; 
+}
+
+#user{
+    min-width: 80%;
+    min-height: 90%;
+    right: 0; 
+    bottom: 0;
+    width: auto; 
+}
+
+#title{
+    color: #0e6a89;
+    border:black;
+}
+
+#policy
+{
+    background-image: url('Privacy%20Policy%20Template%20Background.png');
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.heading{
+    background-color: #0e6a89;
+}
+
+.info{
+    background-color: #5dcbef;
+    color: black;
+    border: 3px solid white;
+}
+
+.homeimg {
+    border: 3px solid white;
+    display: block;
+    width: 35%;
+    height: 35%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+#account{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.songName{
+    text-align: left;
+}
+
+#theboys{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid white;
+}
+
+a {
+    font-family: cursive;
+}
+
+.title-text{
+    position: absolute;
+    width: 100%;
+    font-family: cursive;
+    font-size: x-large;
+    left: 0;
+    text-align: center;
+    margin: auto;
+    padding-top: -10px;
+    color: white;
+}

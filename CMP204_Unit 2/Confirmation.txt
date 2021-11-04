@@ -1,0 +1,11 @@
+<p style="color: red">Are you sure you want to delete your account?</p>
+
+
+<p>Enter your Username and Password if so.</p>
+<div id="deletion">
+        <form action="DeleteAccount.php" method="post">
+            Username: <input type="text" name="username">
+            Password: <input type="password" name="password"><br>
+        <input type="submit" name="submit" value="submit">
+        </form>
+</div>
